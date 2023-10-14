@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mB2QW6b+jwyh+tkq3YjTq2byOULgWMfUCp3z/r/64butTbBD0N478qh3unt90p+NchXjd3Frosi+QyYy8a+o3A==",
+  "dgSpecHash": "53z1xo63OV9Ea8JEvNydSaRzeT1WQsObVyDh4JfW5yckqtMB4aIqVkCljclRNZ238fw4ADz6NhwWIMnrfOX37A==",
   "success": true,
-  "projectFilePath": "D:\\Tablo\\Tablo\\Tablo\\Tablo.csproj",
+  "projectFilePath": "D:\\Tablo\\Tablo\\Tablo\\Tablo.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shahab\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Shahab\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

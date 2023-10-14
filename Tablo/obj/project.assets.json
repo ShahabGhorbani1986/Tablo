@@ -3913,9 +3913,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Tablo\\Tablo\\Tablo\\Tablo.csproj",
-      "projectName": "Tablo",
-      "projectPath": "D:\\Tablo\\Tablo\\Tablo\\Tablo.csproj",
+      "projectUniqueName": "D:\\Tablo\\Tablo\\Tablo\\Tablo.Web.csproj",
+      "projectName": "Tablo.Web",
+      "projectPath": "D:\\Tablo\\Tablo\\Tablo\\Tablo.Web.csproj",
       "packagesPath": "C:\\Users\\Shahab\\.nuget\\packages\\",
       "outputPath": "D:\\Tablo\\Tablo\\Tablo\\obj\\",
       "projectStyle": "PackageReference",
